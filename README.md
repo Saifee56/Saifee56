@@ -1,11 +1,5 @@
-## Hi there 👋
-
-<!--
-**Saifee56/Saifee56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
+# 💫 About Me:
+👯 I’m looking to collaborate on django projects.
 
 
 ## 🌐 Socials:
@@ -25,7 +19,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Saifee56&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
