@@ -1,5 +1,9 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on django projects.
+👋 I’m Safuan Alam Saifee, a Computer Science graduate from American International University-Bangladesh. Currently, I’m working as a Software Developer at Tanvir Constructions Limited while also co-founding a new software venture, Tanvir Informatix Limited.
+
+I specialize in Python, Django, Django REST Framework, and PostgreSQL. I'm passionate about building scalable web applications and RESTful APIs. Right now, I’m expanding my skillset by diving into Linux and Docker for efficient deployment and DevOps practices.
+
+🚀 I’m open to collaborating on Django-based projects and always eager to learn and grow with like-minded developers.
 
 
 ## 🌐 Socials:
